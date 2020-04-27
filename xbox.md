@@ -1,0 +1,12 @@
+ 
+## Xbox Users
+1. Go to Settings -> General -> Network Settings -> Advanced Settings -> DNS Settings
+2. Choose Manual
+3. Change your primary DNS to **104.238.130.180**. You do not need to change your secondary DNS.
+
+### If you have 
+4. 
+5. 
+
+Follow this video (not created by me) for extra help:
+https://www.youtube.com/watch?v=BFdoM8J0p6E
