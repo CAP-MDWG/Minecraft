@@ -1,4 +1,4 @@
-##Mobile Users
+# Mobile Users
 1. Log into Minecraft
 2. Click play, then go to the tab titled “Servers”
 3. Click “Add Server” at the top of the list
