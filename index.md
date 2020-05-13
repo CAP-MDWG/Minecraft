@@ -6,6 +6,7 @@ This is the official Minecraft repository for the CAP Maryland Wing
 - [Xbox Users](xbox.md) 
 - [Mobile Users](mobile.md)
 - Java Users (recommended)
+- Windows 10 users
 
 ### Support or Contact
 DM C/SrA Borissow via Discord @kbcat17#0147
