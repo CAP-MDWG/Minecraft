@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 body {
     font-family: Montserrat;   
     padding-left: 20px;
+}
+h1 {
+    font-family: Roboto;
+}
+h2 {
+    font-family: Roboto;
+}
+h3 {
+    font-family: Roboto;
 }
 .button {
     background-color:slategray; 
